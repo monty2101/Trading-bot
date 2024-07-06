@@ -30,11 +30,6 @@ To run the trading bot:
 ```bash
 bun run index.ts
 ```
-## Project Structure
-- src/: Contains the main source code for the bot.
-- index.ts: Entry point for the bot.
-- config/: Configuration files.
-- utils/: Utility functions and helpers.
 ## Tech Used
 - TypeScript: Strongly typed programming language for JavaScript.
 - Bun: Fast all-in-one JavaScript runtime.
