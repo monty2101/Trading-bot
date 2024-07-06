@@ -1,4 +1,4 @@
-# trading-bot-coindcx
+# Trading-bot-coindcx
 
 ## Overview
 
